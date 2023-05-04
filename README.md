@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nima Nosrati</h1>
 <h3 align="center">a .Net Backend Developer, who loves coding as a passion.</h3>
 
+# 💫 About Me:
+I am a software developer with a great passion for coding and always eager to learn new things. It's amazing how much there is to discover in the world of software development, and I'm excited to be on this journey. I find it fulfilling to be able to create something from scratch and see how it can make a difference in people's lives. Whether it's a new feature for an app or a complete software solution, I enjoy the process of turning ideas into reality. And the best part is, there's always room for growth and improvement, which keeps me motivated to keep pushing forward!
+
 🌱 I’m currently learning cloud platforms like aws and am new to nodejs and typescript
 
 - 💬 Ask me about **.net, Database, microservices ,back-end development ,C# **
 
 - 🔭 I’m currently working on an open-source project to secure your app
+
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nosratiz) 
 
 
 
@@ -20,9 +27,17 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nosratiz&label=Profile%20views&color=0e75b6&style=flat" alt="me-dira" /> </p>
 
-## 𝗦𝘁𝗮𝘁𝘀
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nosratiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nosratiz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosratiz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Nosratiz's github stats](https://github-readme-stats.vercel.app/api?username=nosratiz&show_icons=true&theme=dracula)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nosratiz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 <!--
